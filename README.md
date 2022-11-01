@@ -37,8 +37,4 @@
 - [Work for Intro to AI Class](https://github.com/ACK101101/Intro-to-AI)
 - [Work for Computational Economics Class](https://github.com/ACK101101/Computational-Microeconomics)
 
-##### Other:
-- [Journalism Writing](https://github.com/ACK101101/journalism)
-- [Photos I've Taken](https://github.com/ACK101101/p-good-leica)
-- [Video About My Time in Berlin](https://github.com/ACK101101/berlin_video)
 
