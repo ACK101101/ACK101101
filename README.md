@@ -17,10 +17,24 @@
 ---
 
 ### :smile: Here's some of the work I've done!
-##### Work Projects:
 
-##### Class Projects:
+##### Main Projects:
+- [Energy Infrastructure Object Detection from Satellite Imagery](https://github.com/Duke-BC-2021-AI-for-energy-access)
+- [Google Trends Data Collector](https://github.com/ACK101101/google_trend_checker)
+- [Berkshire Plea Tracker](https://wcsj.law.duke.edu/research/) (Visibility is restricted for data sensitivity reasons)
+- [Linkedin Business Information Collector](https://socialequity.duke.edu/portfolio-item/self-reporting-race-in-small-business-loans-a-game-theoretic-analysis-of-evidence-from-ppp-loans-in-durham-nc/) (Visibility is restricted for data sensitivity reasons)
+- [Democrat and Republican Sentiment Tweet Detector](https://github.com/ACK101101/Dem_Rep_TweetSentiment)
+- [Clinical Trial Monitoring & Alert System](https://clinicaltrials.gov/) (Visibility is restricted for data sensitivity reasons)
+- [Work for Theory & Algorithms of ML Class](https://github.com/ACK101101/Theory---Algs-of-ML)
+
 
 ##### Hobby Projects:
+- [Pomodoro Timer Chrome Plugin](https://github.com/ACK101101/pomo-plugin)
+- [Learning Flappy Bird from Genetic Algorithm](https://github.com/ACK101101/flappyBird-NEAT)
 - [Minimax Checkers](https://github.com/ACK101101/checkers_minimax)
+
+##### Other:
+- [Journalism Writing](https://github.com/ACK101101/journalism)
+- [Photos I've Taken](https://github.com/ACK101101/p-good-leica)
+- [Video About My Time in Berlin](https://github.com/ACK101101/berlin_video)
 
