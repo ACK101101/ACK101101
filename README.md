@@ -25,7 +25,7 @@
 - [Berkshire Plea Tracker](https://wcsj.law.duke.edu/research/) (Visibility is restricted for data sensitivity reasons)
 - [LinkedIn Business Information Collector](https://socialequity.duke.edu/portfolio-item/self-reporting-race-in-small-business-loans-a-game-theoretic-analysis-of-evidence-from-ppp-loans-in-durham-nc/) (Visibility is restricted for data sensitivity reasons)
 - [Democrat and Republican Sentiment Tweet Detector](https://github.com/ACK101101/Dem_Rep_TweetSentiment)
-- [Clinical Trial Monitoring & Alert System](https://clinicaltrials.gov/) (Visibility is restricted for data sensitivity reasons)
+- [Clinical Trial Monitoring & Alert System](https://clinicaltrials.gov/) (Visibility is restricted by company request)
 
 ##### Hobby Projects:
 - [Pomodoro Timer Chrome Plugin](https://github.com/ACK101101/pomo-plugin)
