@@ -13,7 +13,7 @@
 - :heart:  Passionate about coding for the public good and working on anything that promotes human flourishing!
 - :eyes: Interesteed data science, machine learning, and investigative journalism.
 - 🌱  Currently an Undergraduate at Duke University studying Computer Science with a concentration in Machine Learning & AI.
-- :computer: I know Python, R, Java, SQL, and GLPK.
+- :computer: I know Python, R, Java, C, SQL, and GLPK.
 - 📧: Contact me through my [LinkedIn](https://www.linkedin.com/in/alex-kumar00/)
 ---
 
@@ -33,6 +33,8 @@
 - [Minimax Checkers](https://github.com/ACK101101/checkers_minimax)
 
 ##### Class Work:
+- [Kaggle Competition on Imbalanced Employee Attrition Dataset](https://github.com/ACK101101/Employee-Attrition)
+- [Using Graph Theory to Cluster Animal Behavior](https://github.com/ACK101101/Mouse-Behavior)
 - [Work for Theory & Algorithms of ML Class](https://github.com/ACK101101/Theory---Algs-of-ML)
 - [Work for Intro to AI Class](https://github.com/ACK101101/Intro-to-AI)
 - [Work for Computational Economics Class](https://github.com/ACK101101/Computational-Microeconomics)
