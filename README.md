@@ -22,7 +22,7 @@
 ##### Main Projects:
 - [Energy Infrastructure Object Detection from Satellite Imagery](https://github.com/Duke-BC-2021-AI-for-energy-access)
 - [Google Trends Data Collector](https://github.com/ACK101101/google_trend_checker)
-- [Berkshire Plea Tracker](https://wcsj.law.duke.edu/research/) (Visibility is restricted for data sensitivity reasons)
+- [Berkshire Plea Tracker](https://wcsj.law.duke.edu/research/) (Visibility is restricted for data sensitivity reasons, synthetic display version [here](https://github.com/ACK101101/fake-dashboard))
 - [LinkedIn Business Information Collector](https://socialequity.duke.edu/portfolio-item/self-reporting-race-in-small-business-loans-a-game-theoretic-analysis-of-evidence-from-ppp-loans-in-durham-nc/) (Visibility is restricted for data sensitivity reasons)
 - [Democrat and Republican Sentiment Tweet Detector](https://github.com/ACK101101/Dem_Rep_TweetSentiment)
 - [Clinical Trial Monitoring & Alert System](https://clinicaltrials.gov/) (Visibility is restricted by company request)
