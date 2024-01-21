@@ -20,7 +20,7 @@
 ### :smile: Here's some of the work I've done!
 
 ##### Main Projects:
-- [Learning Bipedal Locomotion Policy Using Reinforcement Learning](https://github.com/ACK101101/OmniIsaacGymEnvs/tree/biped)
+- [Learning Bipedal Locomotion Policy Using Reinforcement Learning](https://github.com/ACK101101/OmniIsaacGymEnvs/tree/biped) (Access the paper [here](https://github.com/ACK101101/OmniIsaacGymEnvs/blob/biped/Biped_AlexKumar.pdf))
 - [Energy Infrastructure Object Detection from Satellite Imagery](https://github.com/Duke-BC-2021-AI-for-energy-access)
 - [Object Detection to Evaluate Efficacy of Move Over Slow Down Law on US Highways](https://github.com/ACK101101/MoveOver)
 - [Google Trends Data Collector](https://github.com/ACK101101/google_trend_checker)
@@ -28,17 +28,18 @@
 - [LinkedIn Business Information Collector](https://socialequity.duke.edu/portfolio-item/self-reporting-race-in-small-business-loans-a-game-theoretic-analysis-of-evidence-from-ppp-loans-in-durham-nc/) (Visibility is restricted for data sensitivity reasons)
 - [Clinical Trial Monitoring & Alert System](https://clinicaltrials.gov/) (Visibility is restricted by company request)
 
+##### Class Projects:
+- [Using Graph Theory to Cluster Animal Behavior](https://github.com/ACK101101/Mouse-Behavior) (Access the paper [here](https://github.com/ACK101101/Mouse-Behavior/blob/main/cs321_521_project_summary.pdf))
+- [Transfer Learning for Diabetic Macular Edema Medical Scans](https://github.com/ACK101101/661-DME-Transfer-Learning/tree/master) (Access the
+[Poster](https://github.com/ACK101101/661-DME-Transfer-Learning/blob/master/ECE661%20Poster%20Huang%2C%20Kumar%2C%20Zheng%20(1).pdf), [Paper](https://github.com/ACK101101/661-DME-Transfer-Learning/blob/master/ECE_661_Final_Project.pdf))
+- [Kaggle Competition on Imbalanced Employee Attrition Dataset](https://github.com/ACK101101/Employee-Attrition)
+- [Democrat and Republican Sentiment Tweet Detector](https://github.com/ACK101101/Dem_Rep_TweetSentiment)
+
 ##### Hobby Projects:
 - [Pomodoro Timer Chrome Plugin](https://github.com/ACK101101/pomo-plugin)
 - [Learning Flappy Bird from Genetic Algorithm](https://github.com/ACK101101/flappyBird-NEAT)
 - [Minimax Checkers](https://github.com/ACK101101/checkers_minimax)
-
-##### Class Projects:
-- [Using Graph Theory to Cluster Animal Behavior](https://github.com/ACK101101/Mouse-Behavior)
-- [Transfer Learning for Diabetic Macular Edema Medical Scans](https://github.com/ACK101101/661-DME-Transfer-Learning/tree/master)
-- [Kaggle Competition on Imbalanced Employee Attrition Dataset](https://github.com/ACK101101/Employee-Attrition)
-- [Democrat and Republican Sentiment Tweet Detector](https://github.com/ACK101101/Dem_Rep_TweetSentiment)
-
+- 
 ##### Class Work:
 - [Work for Theory & Algorithms of ML Class](https://github.com/ACK101101/Theory---Algs-of-ML)
 - [Work for Intro to AI Class](https://github.com/ACK101101/Intro-to-AI)
